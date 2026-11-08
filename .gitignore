@@ -3,5 +3,7 @@ __pycache__/
 .pytest_cache/
 local.settings.json
 .env
-.vscode/
+
 *.pyc
+
+.python_packages
