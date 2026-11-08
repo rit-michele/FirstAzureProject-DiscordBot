@@ -4,6 +4,9 @@ import logging
 import os
 import time
 
+"""
+Test for me :)
+"""
 import azure.functions as func
 from nacl.exceptions import BadSignatureError
 from nacl.signing import VerifyKey
